@@ -11,7 +11,7 @@ Convert this Figma design into code. Follow the instructions:
 
 ### Refs:
 
-- Figma URL: `<figma_url>`
+- Figma URL: `<figma_url> (required)`
 - Assets path: `<assets_path> (default: "@/assets/imgs/")`
 - Components dir: `<components_dir> (default: "@/components")`
 - Hooks dir: `<hooks_dir> (default: "@/hooks")`
