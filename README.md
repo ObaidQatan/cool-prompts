@@ -1,2 +1,3 @@
 # cool-prompts
 Stock of prompts that actually works.
+## Being documented...
