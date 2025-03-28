@@ -4,7 +4,7 @@ Prompts in this document are specifically tailored for React + Vite + Typescript
 ## Figma to Code
 To convert a UI Figma design into code by providing the target Figma file URL or a node selection link (`CTRL/cmd + L` on a Figma frame to copy).
 
-### Tested Model: `claude sonnet 3.7`
+### Tested on: `claude sonnet 3.7`
 
 ### Prompt Starts
 Convert this Figma design into code. Follow the instructions:
